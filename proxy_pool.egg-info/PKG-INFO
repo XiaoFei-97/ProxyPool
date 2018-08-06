@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: proxy-pool
+Version: 1.0.0
+Summary: High performance proxy pool
+Home-page: https://github.com/Germey/ProxyPool
+Author: ['Germey', 'WiseDoge']
+Author-email: cqc@cuiqingcai.com
+License: apache 2.0
+Description: A proxy pool project modified from WiseDoge/ProxyPool
+Platform: any
+Classifier: Environment :: Console
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: Implementation :: CPython
